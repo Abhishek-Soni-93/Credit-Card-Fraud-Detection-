@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-
+The project Credit card fraud detection is about Detecting fraud transactions which can be of great importance for any credit card company. We are tasked to detect potential frauds so that customers are not charged for items that they did not purchase. The aim of this project is to identify and predict fraudulent credit card transactions using machine learning models.
